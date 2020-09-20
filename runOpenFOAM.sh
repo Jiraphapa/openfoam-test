@@ -1,3 +1,5 @@
+#! /bin/sh
+
 username="$USER"
 user="$(id -u)"
 home="${1:-$HOME}"
